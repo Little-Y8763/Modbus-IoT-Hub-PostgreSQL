@@ -86,6 +86,12 @@ sudo systemctl enable nodered.service
 
 ## 1. 安裝必要套件
 
+>打開瀏覽器輸入樹梅派 IP，Port 1880 就可以進入 Node-RED
+
+```
+http://xxx.xxx.xxx.xxx:1880
+```
+
 >進入 Node-RED 後，點擊畫面右上角 ![](https://github.com/Little-Y8763/Modbus_IoT-Hub_PostgreSQL/blob/main/Doc/picture/20220221027.PNG)，再點擊設置
 
 ![](https://github.com/Little-Y8763/Modbus_IoT-Hub_PostgreSQL/blob/main/Doc/picture/20220221026.PNG)
